@@ -9090,7 +9090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDDA"
+		(property "Value" "+5V"
 			(at 139.7 36.83 0)
 			(effects
 				(font
@@ -9116,7 +9116,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"VDDA\""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 139.7 41.91 0)
 			(effects
 				(font
@@ -9156,7 +9156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GNDD"
+		(property "Value" "GND"
 			(at 325.12 245.11 0)
 			(effects
 				(font
@@ -9182,7 +9182,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GNDD\" , digital ground"
+		(property "Description" "Power symbol creates a global label with name \"GND\" , digital ground"
 			(at 325.12 241.3 0)
 			(effects
 				(font
@@ -9696,7 +9696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDDA"
+		(property "Value" "+5V"
 			(at 303.53 43.18 0)
 			(effects
 				(font
@@ -9722,7 +9722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"VDDA\""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 303.53 48.26 0)
 			(effects
 				(font
@@ -9905,7 +9905,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad0.5mm"
 			(at 309.88 240.03 0)
 			(effects
 				(font
@@ -11183,7 +11183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VDD"
+		(property "Value" "+3.3V"
 			(at 339.09 44.45 0)
 			(effects
 				(font
@@ -11209,7 +11209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"VDD\""
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
 			(at 339.09 49.53 0)
 			(effects
 				(font
